@@ -16,7 +16,7 @@ which is too slow to be considered for huge amounts of data. To optimize the tim
 - **Time Complexity**: $O(n)$
   - We traverse the list only once, with each lookup in the hash map taking only $O(1)$ time.
 - **Space Complexity**: $O(n)$
-  - In the worst case, we need to store `n-1` values in the hash table.
+  - In the worst case, we need to store all `n` values in the hash table.
  
 ## Key Takeaways
 - I learned that checking if a key in a hash map exists is way faster than searching an array, taking $O(1)$ instead of $O(n)$ time.
