@@ -3,7 +3,7 @@
 ## Intuition
 
 My first idea was to use the brute force method, **looping** over every element in the array and checking if there is another element which then adds up to `target`. That approach would result in a **time complexity of $O(n^2)$**, 
-which is too slow to be considered for huge amounts of data. To optimize the time complexity, I used a **hash map** to store values I have already seen to quickly access them. 
+which is too slow to be considered for huge amounts of data. To optimize the time complexity, I used a **hash map** to store values I have already seen to be able to access them quickly.
 
 ## Approach
 
