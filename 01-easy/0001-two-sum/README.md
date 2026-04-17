@@ -9,7 +9,7 @@ which is too slow to be considered for huge amounts of data. To optimize the tim
 
 - **Hash Map**: The hash map `prev_map` is used to store all the values that have already been seen. The key is the number and the value its index.
 - **One-Pass Search**: The algorithm iterates over the array and calculates `complement = target - current` every time to check if it exists in the `prev_map`.
-- **Check & Return**: When `complement` exists in the `prev_map`, both the current index and the the value of `prev_map[complement]` get returned.
+- **Check & Return**: When `complement` exists in the `prev_map`, both the current index and the the value of `prev_map[complement]`, which corresponds to the index where the complement is, are returned.
 
 ## Complexity
 
