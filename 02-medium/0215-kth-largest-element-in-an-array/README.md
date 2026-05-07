@@ -6,7 +6,7 @@ When reading "largest Element", a **heap** came into my mind instantly. original
 
 ## Approach
 
-- **(Max) Heap**: explanation what it does
+- **(Max) Heap**: We use a max heap to always keep track of the current largest element in the array.
   
 ## Complexity
 
