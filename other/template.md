@@ -10,9 +10,10 @@ Explanation of my Intuition
   
 ## Complexity
 
-- **Time Complexity**: $O()$
+**Time Complexity**: $O()$
   - Explanation why the solution has this time complexity
-- **Space Complexity**: $O()$
+
+  **Space Complexity**: $O()$
   - Explanation why the solution has this space complexity
  
 ## Key Takeaways
