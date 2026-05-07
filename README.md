@@ -4,11 +4,11 @@ My LeetCode solutions, each one with my approach and reflection on key takeaways
 
 # Problems
 
-[🟢Easy](./01-easy "Easy Problems") 
+🟢[Easy](./01-easy "Easy Problems") 
 
-[🟡Medium](./02-medium "Medium Problems")
+🟡[Medium](./02-medium "Medium Problems")
 
-[🔴Hard](./03-hard "Hard Problems")
+🔴[Hard](./03-hard "Hard Problems")
 
 # Other
 
